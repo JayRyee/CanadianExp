@@ -1,0 +1,59 @@
+﻿  pch.cpp
+  Actor.cpp
+  ActorFactory.cpp
+  AnimChannel.cpp
+  AnimChannelAngle.cpp
+  AnimChannelPoint.cpp
+  BasketDrawable.cpp
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\Fruit.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\BasketDrawable.cpp(16,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CanadianExperience.cpp
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\BasketDrawable.cpp(16,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\resource.h(5,1): warning C4005: 'IDD_TREEDLG': macro redefinition
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\resource.h(15): message : see previous definition of 'IDD_TREEDLG'
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\resource.h(8,1): warning C4005: 'IDB_BITMAP1': macro redefinition
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\resource.h(12): message : see previous definition of 'IDB_BITMAP1'
+  Drawable.cpp
+  HaroldFactory.cpp
+  HeadTop.cpp
+  ImageDrawable.cpp
+  MainFrm.cpp
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\Fruit.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\resource.h(5,1): warning C4005: 'IDD_TREEDLG': macro redefinition
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\resource.h(15): message : see previous definition of 'IDD_TREEDLG'
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\resource.h(8,1): warning C4005: 'IDB_BITMAP1': macro redefinition
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\resource.h(12): message : see previous definition of 'IDB_BITMAP1'
+  Picture.cpp
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\Fruit.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PictureFactory.cpp
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\Fruit.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PictureObserver.cpp
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\Fruit.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PolyDrawable.cpp
+  RotatedBitmap.cpp
+  SpartyFactory.cpp
+  Timeline.cpp
+  TimelineDlg.cpp
+  Generating Code...
+  Compiling...
+  TreeDlg.cpp
+  TreeDrawble.cpp
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\Fruit.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\Fruit.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\TreeDrawble.cpp(23,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ViewEdit.cpp
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\TreeDrawble.cpp(23,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\resource.h(5,1): warning C4005: 'IDD_TREEDLG': macro redefinition
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\resource.h(15): message : see previous definition of 'IDD_TREEDLG'
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\resource.h(8,1): warning C4005: 'IDB_BITMAP1': macro redefinition
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\resource.h(12): message : see previous definition of 'IDB_BITMAP1'
+  ViewTimeline.cpp
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\Fruit.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\resource.h(5,1): warning C4005: 'IDD_TREEDLG': macro redefinition
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\resource.h(15): message : see previous definition of 'IDD_TREEDLG'
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\resource.h(8,1): warning C4005: 'IDB_BITMAP1': macro redefinition
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\CanadianExperience\resource.h(12): message : see previous definition of 'IDB_BITMAP1'
+  XmlNode.cpp
+  Generating Code...
+C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\TreeLib\Fruit.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CanadianExperience.vcxproj -> C:\Users\Ryanj\OneDrive\Desktop\CanadianExperience\Debug\CanadianExperience.exe
